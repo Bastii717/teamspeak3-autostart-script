@@ -11,7 +11,7 @@
 
 # TODO: Customize values USER / DIR
 USER="teamspeak"
-DIR="/opt/teamspeak3/teamspeak3_server_linux-amd64"
+DIR="/opt/teamspeak3/teamspeak3-server_linux-amd64"
  
 ###### Teamspeak 3 server start/stop script ######
  
